@@ -37,7 +37,7 @@ def main():
                             desc = "Please change description of this script"
                         else:
                             desc = desc[1:]
-                    desc_link = "* [{}](../blob/master/{})  \n".format(desc, os.path.join(root, f)[2:])
+                    desc_link = "* [{}]({})  \n".format(desc, os.path.join(root, f)[2:])
                     #print(desc_link)
                     f_readme.write(desc_link)
                     
