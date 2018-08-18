@@ -1,2 +1,3 @@
-# python-learn
-collection of python snippet, program in proces of learning this such amazing programming language !!!
+* [example of argparse modul](../blob/master/ex_argparse.py)  
+* [update README.md file with contents of this repository](../blob/master/update_readme.py)  
+* [example of argparse modul](../blob/master/ex_argparse2.py)  

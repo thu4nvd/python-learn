@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+#example of argparse modul
+
+
 import argparse
 
 parser = argparse.ArgumentParser(description="calculate X to the power of Y")
