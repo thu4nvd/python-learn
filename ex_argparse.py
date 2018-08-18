@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#example of argparse modul
+#example of argparse module
 
 
 import argparse
